@@ -2,7 +2,6 @@
 
 Check the documentation here https://squirrelserversmanager.io/docs/
 
--
 
 Welcome to SSM !
 SSM blend the automation powerhouse of Ansible with the portable setup of Docker in a clean and engaging interface.
