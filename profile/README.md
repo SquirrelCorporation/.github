@@ -1,6 +1,19 @@
-## Hi there 👋
+# Squirrel Servers Manager
+[Website](https://squirrelserversmanager.io) - [Documentation](https://squirrelserversmanager.io/docs) - [Demo](https://squirrelserversmanager.io/docs) 
+<img src="https://raw.githubusercontent.com/SquirrelCorporation/SquirrelServersManager/master/site/public/logo.svg" align="right"
+     alt="SSM by Emmanuel Costa" width="120" height="178">
 
-Check the documentation here https://squirrelserversmanager.io/docs/
+Squirrel Servers Manager is an all-in-one configuration and container management tool, powered by Ansible and Docker, with a focus on UI/UX.
+It is designed to provide a user-friendly alternative to well-known established tools, while being totally open-source and free.
+
+[![Publish Containers to Ghcr.io](https://github.com/SquirrelCorporation/SquirrelServersManager/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/SquirrelCorporation/SquirrelServersManager/actions/workflows/docker-publish.yml)
+[![Tests](https://github.com/SquirrelCorporation/SquirrelServersManager/actions/workflows/node.js.yml/badge.svg)](https://github.com/SquirrelCorporation/SquirrelServersManager/actions/workflows/node.js.yml)
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/SquirrelCorporation/SquirrelServersManager/master/site/public/home/dashboard.png" width="60%">
+</p>
+
+---
 
 ## Experience the immense power encapsulated within these tools, now presented through a user-friendly interface.
 
@@ -12,8 +25,7 @@ Check the documentation here https://squirrelserversmanager.io/docs/
 
 ❤️ Rediscover Ansible and Docker as they unite under one intuitive, open-source interface. Welcome to simplicity and power in perfect harmony.
 
-## Features
-
+## 🔥 Main Features:
 
 |                                            | Features                               | Description                                                                                                                            |
 |:------------------------------------------:|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
